@@ -1,0 +1,19 @@
+ls
+pwd
+ps
+ps axu
+top
+ls
+pwd
+exi
+exit
+which git
+/usr/bin/git
+ls /usr/local/Cellar/git/2.17.0/bin/git
+/usr/local/Cellar/git/2.17.0/bin/git -v
+exit
+docker
+l
+ls
+docker
+exit

@@ -1,0 +1,25 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("Applications"
+ (filename . "~/Applications/")
+ (front-context-string . ".localized\n  drw")
+ (rear-context-string . "  0  3 30 19:12 ")
+ (position . 241))
+("Desktop"
+ (filename . "~/Desktop/")
+ (front-context-string . ".\n  drwxr-xr-x+ ")
+ (rear-context-string . "192  8 10 15:29 ")
+ (position . 140))
+("reuse-tool"
+ (filename . "~/git/reuse-tool/")
+ (front-context-string . ".git\n  -rw-r--r-")
+ (rear-context-string . "352  7 10 17:27 ")
+ (position . 255))
+("reuse-web"
+ (filename . "~/git/reuse-web/")
+ (front-context-string . "module\n  drwxr-x")
+ (rear-context-string . "288  4  4 16:55 ")
+ (position . 1468))
+)
